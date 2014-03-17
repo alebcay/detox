@@ -1,5 +1,5 @@
-hangover
-========
+detox
+=====
 
 Clean your Homebrew setup!
 
